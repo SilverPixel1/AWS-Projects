@@ -1,0 +1,31 @@
+# AWS Serverless Web Application
+
+Kurzes Lernprojekt mit AWS, um eine serverlose Webanwendung umzusetzen.
+
+## 🧱 Architektur
+
+
+## 🔧 Tech Stack
+- Amazon S3 – Static Website Hosting
+- AWS Lambda – Backend Logic
+- Amazon DynamoDB – Datenbank
+- Amazon CloudFront – CDN
+- AWS IAM – Security
+
+## 🚀 Features
+- Statische Website über S3
+- API über Lambda
+- Datenpersistenz in DynamoDB
+- Globales CDN mit CloudFront
+
+## 📚 Was ich gelernt habe
+- IAM Rollen & Policies richtig setzen
+- Serverless Deployment
+- Kostenbewusste Architektur
+- AWS Best Practices
+
+## ▶️ Deployment (Kurzfassung)
+1. S3 Bucket erstellen
+2. Lambda Funktion deployen
+3. DynamoDB Table anlegen
+4. CloudFront konfigurieren
