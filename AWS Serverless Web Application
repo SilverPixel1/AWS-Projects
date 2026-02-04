@@ -5,7 +5,7 @@ This project is a hands-on learning exercise to build a fully serverless web app
 The focus is on understanding serverless architecture, secure configuration, and cost-efficient cloud design.
 
 ## 🧱 Architecture
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](Serverless_Architecture.png)
 
 ## 🔧 Tech Stack
 - Amazon S3 – Static website hosting
