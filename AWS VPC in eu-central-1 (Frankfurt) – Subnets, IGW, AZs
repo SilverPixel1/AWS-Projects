@@ -40,7 +40,7 @@ Dieses Projekt zeigt eine saubere Basis-Netzwerkstruktur in AWS: **VPC** mit **P
 ### Private Route Table
 - Ohne NAT: **kein** `0.0.0.0/0` ins Internet (rein privat)
 - Mit NAT (optional): `0.0.0.0/0` → **NAT Gateway** (im Public Subnet)
-- Assoziiert mit: **Private Subnet A + B**
+- Assoziiert mit: **Private Subnet 2 + 3 + 4**
 
 ## 🔐 Security Group
 
