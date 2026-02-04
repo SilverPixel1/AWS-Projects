@@ -33,6 +33,7 @@ Build a strong foundation to work professionally as a **Cloud / Junior Cloud Eng
 and continuously improve through hands-on projects and learning.
 
 ## 📌 Philosophy
+- Understand why a service is used over another
 - Learn fundamentals before complexity
 - Security and clarity over shortcuts
 - Simple architectures done right
